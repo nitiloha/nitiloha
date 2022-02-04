@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nitiloha
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning HTML5, CSS3 and OOJS 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Open Source
 - 📫 How to reach me ...
 
 <!---
